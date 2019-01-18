@@ -23,7 +23,7 @@ br {
   max-width: 700px;
   margin: 0 auto;
   background-size: cover;
-  background-image: url("https://images.pexels.com/photos/1434608/pexels-photo-1434608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+  background-image: url("../img/space.jpg");
   border-radius: 0 0 1em 1em;
 }
 .intro-overlay {
@@ -64,23 +64,23 @@ br {
   color: #013e4a;
 }
 .coder {
-  background-image: url("https://images.pexels.com/photos/239898/pexels-photo-239898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-image: url("../img/dev.jpg");
   margin-bottom: -1em;
 }
 .pixels {
-  background-image: url("https://scontent.fbed1-2.fna.fbcdn.net/v/t1.0-9/46443362_10103273923253494_8593493560815255552_n.jpg?_nc_cat=111&_nc_ht=scontent.fbed1-2.fna&oh=2a4a47b8275055f056d50a05854d1220&oe=5CD214A3");
+  background-image: url("../img/pixels.jpg");
 }
 .writer {
-  background-image: url("https://images.pexels.com/photos/34088/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-image: url("../img/writer.jpeg");
 }
 .teacher {
-  background-image: url("https://images.pexels.com/photos/697662/pexels-photo-697662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-image: url("../img/teacher.jpg");
 }
 .audio {
-  background-image: url("https://images.pexels.com/photos/55800/microphone-audio-computer-sound-recording-55800.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-image: url("../img/voice-artist.jpeg");
 }
 .speaker {
-  background-image: url("https://images.pexels.com/photos/164912/pexels-photo-164912.jpeg?cs=srgb&dl=blur-blurry-close-up-164912.jpg&fm=jpg");
+  background-image: url("../img/public-speaker.jpg");
 }
 .pixels-orange {
   color: #f58832;
