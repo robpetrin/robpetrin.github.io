@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Roboto|Heebo:900');
+
+// Globals
+  
+a:hover
+  color white
+  text-decoration inherit
+
+body
+  background-color rgba(0,0,0,0.1)
+  color rgb(10,10,25)
+  font-family 'Roboto', sans-serif
+  
+br
+  line-height 200%
+  
+.master-container
+  width 95%
+  height 100%
+  margin auto auto 1em auto
+  display block
+  align-items center
+  border-radius 1em
+  
+.intro-panel
+  max-width 700px
+  margin 0 auto
+  background-size cover
+  background-image url('https://images.pexels.com/photos/1434608/pexels-photo-1434608.jpeg?auto=compress&cs=tinysrgb&h=650&w=940')
+  border-radius 0 0 1em 1em
+  
+.intro-overlay
+  height 100%
+  background-color rgba(0,0,0,0.5)
+  border-radius 0 0 1em 1em
+  
+.picture-rob
+  max-height 6em
+  margin 0 auto
+  border-radius 4em
+  -webkit-transition -webkit-transform .8s ease-in-out
+  transition transform .8s ease-in-out
+  
+.picture-rob:hover 
+  -webkit-transform rotate(1080deg)
+  transform rotate(1080deg)
+  
+.name
+  margin auto
+  font-size 2em
+  color white
+  font-family 'Heebo', sans-serif
+  
+.resume
+  font-size 1em
+  font-family 'Roboto', sans-serif
+  font-weight 700
+  letter-spacing 0.3em
+  background-color white
+  color #013E4A
+  border-radius 2em
+  padding 0.5em
+  margin auto
+  
+.resume:hover 
+    transform scale(1.1)
+    color #013E4A
+
+// Background images for the Accordion sections.
+
+.coder
+  background-image url('https://images.pexels.com/photos/239898/pexels-photo-239898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')
+  margin-bottom -1em
+  
+.pixels
+  background-image url('https://scontent.fbed1-2.fna.fbcdn.net/v/t1.0-9/46443362_10103273923253494_8593493560815255552_n.jpg?_nc_cat=111&_nc_ht=scontent.fbed1-2.fna&oh=2a4a47b8275055f056d50a05854d1220&oe=5CD214A3')
+  
+.writer
+  background-image url('https://images.pexels.com/photos/34088/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+  
+.teacher
+  background-image url('https://images.pexels.com/photos/697662/pexels-photo-697662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260')
+  
+.audio 
+  background-image url('https://images.pexels.com/photos/55800/microphone-audio-computer-sound-recording-55800.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260')
+  
+.speaker
+  background-image url('https://images.pexels.com/photos/164912/pexels-photo-164912.jpeg?cs=srgb&dl=blur-blurry-close-up-164912.jpg&fm=jpg')
+  
+// Pixels
+.pixels-orange
+  color #F58832
+  font-weight 700
+  
+// Accordion Details
+
+.accordion
+  max-width 700px
+  min-width 350px
+  width 100%
+  margin auto
+  
+.accordion-header
+  font-size 1.25em
+  width 100%
+  text-transform uppercase
+  word-spacing 0.05em
+  
+.accordion-header:hover
+  cursor pointer
+
+.accordion-body
+    background-color #000
+    background-size cover
+    margin 0 auto
+    display block
+    border-radius 1em
+.accordion-overlay
+  height 100%
+  background-color rgba(0,0,0,0.75)
+  
+.accordion-detail
+  margin 0 0.25em 1em 0.25em
+  padding 1em
+  color #fff
+  
+  // Logos
+
+.pixels-logo
+  margin 0 auto 1em auto
+  max-height 2em
+  
+.pixels-logo:hover 
+    transform scale(1.25)
+  
+.prof-logo 
+  display block
+  margin 0 auto
+  width 70%
+  
+.prof-logo:hover 
+    transform scale(1.25)
+  
+.columns
+  margin 0 auto
+  padding 0
+  
+// Grids
+
+.columns
+  align-items center
+  align-content center
+  justify-content center
+  
+.column
+  text-align center
+  
+.fab, .fas
+  text-align center
+  display block
+  margin 0.1em auto
+  
+.fab:hover, .fas:hover
+    transform scale(1.5)
+.fa-docker
+  font-size 3em
+  color #fff
+  
+.dev-icons
+  font-size 2.5em
+  color #fff
+  
+.social-icons
+ margin auto
+ font-size 2em
+ color #fff
+  
+.fa-pen-alt, .fa-chalkboard-teacher
+  margin auto 0.5em
+  
+.homebody
+  background-color #6666b8
+  background-color white
+  color #6666b8
+  border 2px solid #6666b8
+  font-family "Lobster"
+  height 3em
+  margin 0 auto 1em auto
+
+
+.homebody:hover
+   background-color #6666b8
+   color white
+  
+.twc
+  background-color #28557d
+  background-color white
+  color #28557d
+  border 2px solid #ed1f24
+  font-family "Lobster"
+.twc:hover
+   background-color #28557d
+   border 2px solid #28557d
+  
+.twc-button
+  height 3em
+  margin 0 auto 1em auto
+
+  
+button
+    height 3em
+    border none
+    color white
+    padding 0.25em
+    text-align center
+    text-decoration none
+    align-items center
+    display inline-block
+    font-size 20px
+    margin 0 auto
+    -webkit-transition-duration 0.4s
+    transition-duration 0.4s
+    cursor pointer
+    border-radius 40px
+    width 6em
+    
+button:hover 
+    transform scale(1.25)
+    
+.portfolio
+  background-color white
+  color #85714D
+  border 2px solid #85714D
+  font-family 'Roboto', sans-serif
+  height 3em
+  width 10em
+
+.portfolio:hover
+   background-color rgba(0,33,71,0.5)
+   color white
+   
+.chegg
+  background-color white
+  border 2px solid #F07D00
+  width 10em
+  margin 0 auto 1em auto
+.chegg:hover
+   background-color rgba(240,125,0,1)
+   border 2px solid white
+  
+.chegg-button
+  width 7.5em
+
+  
+.fiverr
+  background-color white
+  border 2px solid #1DBF73
+  width 10em
+.fiverr:hover
+   background-color #1DBF73
+   border 2px solid #343232
+  
+.fiverr-button
+  width 7.5em
+  
+.ps-fiverr
+    margin 0 auto 1em auto
