@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Lobster|Roboto|Heebo:900");
+
 a:hover {
   color: #fff;
   text-decoration: inherit;
@@ -49,7 +50,7 @@ br {
   font-family: 'Heebo', sans-serif;
 }
 .resume {
-  font-size: 0.8em;
+  font-size: 0.9em;
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   letter-spacing: 0.3em;
@@ -62,6 +63,11 @@ br {
 .resume:hover {
   transform: scale(1.1);
   color: #013e4a;
+}
+@media (max-width: 450px) {
+  .resume {
+    font-size: 0.8em;
+  }
 }
 .coder {
   background-image: url("../img/dev.jpg");
@@ -135,8 +141,6 @@ br {
 .columns {
   margin: 0 auto;
   padding: 0;
-}
-.columns {
   align-items: center;
   align-content: center;
   justify-content: center;
@@ -164,8 +168,13 @@ br {
 }
 .social-icons {
   margin: auto;
-  font-size: 2em;
+  font-size: 1.5em;
   color: #fff;
+}
+@media (max-width: 450px) {
+  .social-icons {
+    font-size: 1.25em;
+  }
 }
 .fa-pen-alt,
 .fa-chalkboard-teacher {
