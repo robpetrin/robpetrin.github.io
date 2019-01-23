@@ -240,18 +240,20 @@ button:hover {
   background-color: rgba(0,33,71,0.5);
   color: #fff;
 }
-.chegg {
-  background-color: #fff;
-  border: 2px solid #f07d00;
+.tutor {
+  background-color: #1e4c70;
+  border: 2px solid #fff;
   width: 10em;
   margin: 0 auto 1em auto;
 }
-.chegg:hover {
-  background-color: rgba(255,255,255,0.5);
+.tutor:hover {
+  background-color: rgba(30,76,112,0.33);
+  border: 2px solid #fff;
 }
-.chegg-button {
-  width: 7.5em;
+.tutor-button {
+  width: 5em;
 }
+
 .fiverr {
   background-color: #fff;
   border: 2px solid #1dbf73;
