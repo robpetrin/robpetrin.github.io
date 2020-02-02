@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lobster|Roboto|Heebo:900");
-
+*:focus {
+  outline: 0;
+}
 a:hover {
   color: #fff;
   text-decoration: inherit;
