@@ -84,6 +84,9 @@ br {
 }
 .audio {
   background-image: url("../img/voice-artist.jpeg");
+  div {
+    margin-bottom: 0;
+  }
 }
 .speaker {
   background-image: url("../img/public-speaker.jpg");
@@ -116,6 +119,7 @@ br {
 }
 .accordion-overlay {
   height: 100%;
+  margin-bottom: -1.5em;
   background-color: rgba(0,0,0,0.75);
 }
 .accordion-detail {
