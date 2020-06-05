@@ -103,6 +103,7 @@ body {
 }
 #main .card {
   background: none;
+  border: none;
 }
 #main .card-body {
   border: 0.2rem var(--light) solid;
