@@ -200,6 +200,9 @@ body {
   max-width: 600px;
   width: 90%;
 }
+.modal-body {
+  max-height: 18.5rem;
+}
 .modal-content button {
   font-size: 1rem;
   font-weight: 900;
