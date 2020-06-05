@@ -1,0 +1,212 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Permanent+Marker|Roboto");
+body {
+  background-image: url("https://images.pexels.com/photos/957010/milky-way-starry-sky-night-sky-star-957010.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: fill;
+  background-repeat: no-repeat;
+  height: 100%;
+  overflow-x: hidden;
+  font-family: "Roboto", sans-serif;
+}
+
+.color-underlay {
+  background-color: var(--dark);
+  background-size: contain;
+  opacity: 0.75;
+  position: fixed;
+  height: 100vh;
+  width: 100%;
+  z-index: 0;
+}
+
+#header {
+  max-width: 600px;
+  width: 90%;
+  height: 7rem;
+}
+
+#rob-photo div {
+  height: 6rem;
+  width: 6rem;
+  border-radius: 100%;
+  background-image: url("https://petr.in/img/rob.jpg");
+  background-size: cover;
+}
+@media (max-width: 450px) {
+  #rob-photo div {
+    height: 4.5rem;
+    width: 4.5rem;
+  }
+}
+
+#rob-name, .modal-title {
+  font-family: "Permanent Marker", cursive;
+  font-size: 2rem;
+  letter-spacing: 0.2rem;
+}
+@media (max-width: 530px) {
+  #rob-name, .modal-title {
+    font-size: 1.5rem;
+    letter-spacing: initial;
+  }
+}
+
+#rob-icons .col {
+  font-size: 1.5rem;
+}
+@media (max-width: 450px) {
+  #rob-icons .col {
+    font-size: 1.25rem;
+  }
+}
+#rob-icons .col:hover {
+  transform: scale(2);
+}
+
+#resume {
+  max-width: 600px;
+  width: 90%;
+  height: 3.5rem;
+  margin-top: 1.25rem;
+}
+#resume button {
+  font-size: 1rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+@media (max-width: 450px) {
+  #resume button {
+    letter-spacing: initial;
+  }
+}
+
+@media (max-width: 450px) {
+  .btn-outline-light {
+    letter-spacing: initial;
+  }
+}
+
+#main {
+  height: calc(100vh - 3.5rem);
+  margin: 1.5rem 0;
+  color: white;
+}
+#main #box {
+  max-width: 600px;
+  height: calc(100vh - 14rem);
+}
+@media (max-width: 650px) {
+  #main #box {
+    max-width: 90%;
+  }
+}
+#main .card {
+  background: none;
+}
+#main .card-body {
+  border: 0.2rem var(--light) solid;
+  border-radius: 1rem;
+}
+
+.btn-link {
+  margin-left: -1rem;
+  color: var(--light);
+  font-weight: 700;
+  font-size: 1.25rem;
+  line-height: 1rem;
+}
+.btn-link:hover {
+  color: inherit;
+}
+@media (max-width: 450px) {
+  .btn-link {
+    font-size: 1rem;
+    line-height: 0.75rem;
+  }
+}
+
+#fs-icons {
+  font-size: 2.5rem;
+}
+
+#accordion .card-body button {
+  font-size: 1rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+@media (max-width: 450px) {
+  #accordion .card-body button {
+    letter-spacing: initial;
+  }
+}
+
+#last-card {
+  margin-bottom: 5rem;
+}
+
+.pixels-orange {
+  color: #f58832;
+  font-weight: 700;
+}
+
+.pixels-logo {
+  margin: 0 auto 1em auto;
+  max-height: 2em;
+}
+.pixels-logo:hover {
+  transform: scale(1.25);
+}
+
+.prof-logo {
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+}
+.prof-logo:hover {
+  transform: scale(1.25);
+}
+
+.fa-docker {
+  font-size: 4rem;
+}
+@media (max-width: 450px) {
+  .fa-docker {
+    font-size: 3rem;
+  }
+}
+
+[data-toggle="collapse"]:before {
+  display: inline-block;
+  font-size: 2rem;
+  margin-right: 0.5rem;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: rotate(90deg);
+  font-weight: 400;
+  content: "›";
+  transition: all linear 0.25s;
+  position: relative;
+  top: 0.25rem;
+}
+[data-toggle="collapse"].collapsed:before {
+  transform: rotate(0deg);
+}
+
+.modal-content {
+  max-width: 600px;
+  width: 90%;
+}
+.modal-content button {
+  font-size: 1rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+@media (max-width: 450px) {
+  .modal-content button {
+    letter-spacing: initial;
+  }
+}
