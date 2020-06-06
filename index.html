@@ -19,7 +19,6 @@
 
 </head>
 <body>
-<!-- partial:index.partial.html -->
 <div class="color-underlay"></div>
 <div class="fixed-top w-100 mt-3">
   <div class="mx-auto" id="header">
@@ -36,7 +35,7 @@
                 <div class="col my-auto"><a class="text-dark" href="http://github.com/robpetrin" target="_blank"><i class="fab fa-github"></i></a></div>
                 <div class="col my-auto"><a class="text-dark" href="http://codepen.io/robpetrin/" target="_blank"><i class="fab fa-codepen"></i></a></div>
                 <div class="col my-auto"><a href="https://www.linkedin.com/in/robpetrin/" target="_blank"><i class="fab fa-linkedin"></i></a></div>
-                <div class="col my-auto"><a href="mailto:rob@petr.in" data-toggle="modal" data-target="#emailModal"><i class="fas fa-envelope"></i></a></div>
+                <div class="col my-auto"><a href="#" data-toggle="modal" data-target="#emailModal"><i class="fas fa-envelope"></i></a></div>
               </div>
             </div>
           </div>
@@ -51,23 +50,44 @@
   <div class="w-100 d-flex align-items-end" id="main">
     <div class="w-100 mx-auto" id="box">
       <div class="accordion" id="accordion">
+
         <div class="card">
-          <div class="card-header" id="headingOne">
+          <div class="card-header" id="rob-heading">
             <h5 class="mb-0">
-              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Project Manager at <span class="pixels-orange">Pixels 360</span></button>
+              <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#rob-collapse" aria-expanded="true" aria-controls="rob-collapse">Who's Rob?</button>
             </h5>
           </div>
-          <div class="collapse show" id="collapseOne" aria-labelledby="headingOne" data-parent="#accordion">
+          <div class="collapse show" id="rob-collapse" aria-labelledby="rob-heading" data-parent="#accordion">
+            <div class="card-body">
+                <p>
+                  Hello! Thanks for visiting my website. Here, you'll find more information about me, my life, my background, as well as my education, skills, and experiences. You'll see examples of what I'm currently up to, and things I've done previously. Mostly, this space serves as a place to demonstrate my lifelong enjoyment of building things on the web.
+                </p>
+                <p>
+                  I'm a lifelong New Englander, raised in Rhode Island but based outside of Boston. Beyond the web, I'm pretty basic. I like trivia, games, sports, and music. I love dogs and camping. I appreciate education, and study history. I think the Internet is amazing. Feel free to check out my social accounts at the top of this page, or use the email form to connect. Take care!
+                </p>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header" id="project-heading">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#project-collapse" aria-expanded="false" aria-controls="project-collapse">Project Manager at <span class="pixels-orange">Pixels 360</span></button>
+            </h5>
+          </div>
+          <div class="collapse" id="project-collapse" aria-labelledby="project-heading" data-parent="#accordion">
             <div class="card-body">I've been Project Manager at Pixels 360 since November of  2017. It's been a fantastic opportunity to work with world-class Web Engineers on top-quality web applications.<a href="//pixels-360.com" target="_blank"><img class="pixels-logo mt-4" src="//www.pixels-360.com/assets/uploads/files/Pixels-360-logo.svg"/></a>It has been an invaluable experience, allowing me to utilitize skills from my previous educational and other professional roles, while also strengthening my own skills in web development, writing, training, mentoring, client services, and organizational practices.</div>
           </div>
         </div>
+
         <div class="card">
-          <div class="card-header" id="headingTwo">
+          <div class="card-header" id="fs-heading">
             <h5 class="mb-0">
-              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Full-Stack Web Engineer</button>
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#fs-collapse" aria-expanded="false" aria-controls="fs-collapse">Full-Stack Web Engineer</button>
             </h5>
           </div>
-          <div class="collapse" id="collapseTwo" aria-labelledby="headingTwo" data-parent="#accordion">
+          <div class="collapse" id="fs-collapse" aria-labelledby="fs-heading" data-parent="#accordion">
             <div class="card-body">My day job is managing Engineers who build web apps. In my free time, I pad my own engineering portfolio. I've built hundreds of websites since I was a pre-teen. My personal and professional experiences range from basic static sites for local businesses, to promising startups, established tech giants, and world-class institutions.
               <div class="row mt-2 mb-2 mx-auto">
                 <div class="col-4 my-auto"><img class="prof-logo" src="https://www.chiefwineofficer.com/wp-content/uploads/2018/03/vmware-white-logo.png"/></div>
@@ -93,48 +113,52 @@
         </div>
 
         <div class="card">
-          <div class="card-header" id="headingFour">
+          <div class="card-header" id="teaching-heading">
             <h5 class="mb-0">
-              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Teacher, Trainer & Tutor</button>
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#teaching-collapse" aria-expanded="false" aria-controls="teaching-collapse">Teacher, Trainer & Tutor</button>
             </h5>
           </div>
-          <div class="collapse" id="collapseFour" aria-labelledby="headingFour" data-parent="#accordion">
-            <div class="card-body">Before diving into the tech industry, I was teaching Social Studies & Special Education, in grades 6 through 12. As is often the case, I volunteered for countless events, chaired multiple clubs, and coached sports in all three academic seasons. While it's no longer my primary passion, I definitely miss it.
+          <div class="collapse" id="teaching-collapse" aria-labelledby="teaching-heading" data-parent="#accordion">
+            <div class="card-body">Before diving into the tech industry, I was teaching Social Studies & Special Education, in grades 6 through 12. As is often the case, I also volunteered for countless events, chaired multiple clubs, and coached sports in all three academic seasons. While it's no longer my primary passion, I do miss it.
               <p class="text-center"><a href="https://drive.google.com/file/d/1HgHEeKL5PD9BMMATkzIYZrGZOVwYpXNw/view?usp=sharing" target="_blank">
                   <button class="btn btn-outline-light w-100 mt-2"><i class="fas fa-chalkboard-teacher mr-2"></i>Teaching Portfolio</button></a></p>If you're so inclined, my educational portfolio is above. I'm still a giant History and Social Studies nerd. I don't actively seek out, but would totally entertain, part-time teaching, training, and tutorial roles or gigs.
             </div>
           </div>
         </div>
+
         <div class="card">
-          <div class="card-header" id="headingThree">
+          <div class="card-header" id="writer-heading">
             <h5 class="mb-0">
-              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Technical Writer</button>
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#writer-heading" aria-expanded="false" aria-controls="writer-heading">Technical Writer</button>
             </h5>
           </div>
-          <div class="collapse" id="collapseThree" aria-labelledby="headingThree" data-parent="#accordion">
+          <div class="collapse" id="writer-heading" aria-labelledby="writer-heading" data-parent="#accordion">
             <div class="card-body">While it hasn't always leant itself to specific job opportunities, my background in writing (bachelor's degree) has been instrumental in every job I've had. 
               <p class="text-center"><a href="https://drive.google.com/drive/folders/0BzY1JyiP5mlnQXBUUm1WMjA4ZTg?usp=sharing" target="_blank">
                   <button class="btn btn-outline-light w-100 mt-2"><i class="fas fa-pen-alt mr-2"></i>Writing Portfolio</button></a></p>If you're a glutton for punishment, check out some of the writing above! I don't often do any Creative Writing (all of the above was assigned as part of undergrad), but the ability to write has been instrumental to my daily work functions. Even during my time in education, I emphasized this as  an invaluable professional skill to gain at an early age.
             </div>
           </div>
         </div>
+
         <div class="card" id="last-card">
-          <div class="card-header" id="headingFive">
+          <div class="card-header" id="audio-heading">
             <h5 class="mb-0">
-              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">Audio Recording & Production</button>
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#audio-collapse" aria-expanded="false" aria-controls="audio-collapse">Audio Recording & Production</button>
             </h5>
           </div>
-          <div class="collapse" id="collapseFive" aria-labelledby="headingFive" data-parent="#accordion">
+          <div class="collapse" id="audio-collapse" aria-labelledby="audio-heading" data-parent="#accordion">
             <div class="card-body">I used to perform side work in audio recording and production. It was a lot of fun and a great experience, but never something I fully pursued. Nowadays, my microphone lies dormant...
               <p class="text-center"><a href="https://www.fiverr.com/robpetrin" target="_blank">
                   <button class="btn btn-outline-light w-100 mt-2"><i class="fas fa-tasks mr-2"></i>Find me on Fiverr</button></a></p>...Having said that, I do keep an eye out for specific projects which would scratch the itch, as working with audio has been something I've long enjoyed. Please inquire on Fiverr if you'd like to hear from me (literally)!
             </div>
           </div>
         </div>
+
       </div>
     </div>
   </div>
 </div>
+
 <div class="modal fade" id="emailModal" tabindex="-1" role="dialog" aria-labelledby="emailModal" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content mx-auto">
