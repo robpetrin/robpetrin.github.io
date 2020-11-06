@@ -25,6 +25,10 @@ body {
   height: 7rem;
 }
 
+.card-header {
+  border-bottom: none;
+}
+
 #rob-photo div {
   height: 6rem;
   width: 6rem;
