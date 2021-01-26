@@ -3,6 +3,7 @@
 * {
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;
+  overflow-y: hidden;
 }
 
 *::-webkit-scrollbar {
