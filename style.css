@@ -1,4 +1,14 @@
 @import url("https://fonts.googleapis.com/css?family=Permanent+Marker|Roboto");
+
+* {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   background-image: linear-gradient(to top, #755780, #6c5781, #625781, #585681, #4e5680, #4a5886, #44598d, #3c5b93, #395fa3, #3663b3, #3467c4, #336bd4);
   font-family: "Roboto", sans-serif;
