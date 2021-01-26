@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Permanent+Marker|Roboto");
 
 * {
-  -ms-overflow-style: none;  /* IE and Edge */
+  -ms-overflow-style: none; /* IE and Edge */
   scrollbar-width: none;
 }
 
@@ -10,7 +10,21 @@
 }
 
 body {
-  background-image: linear-gradient(to top, #755780, #6c5781, #625781, #585681, #4e5680, #4a5886, #44598d, #3c5b93, #395fa3, #3663b3, #3467c4, #336bd4);
+  background-image: linear-gradient(
+    to top,
+    #755780,
+    #6c5781,
+    #625781,
+    #585681,
+    #4e5680,
+    #4a5886,
+    #44598d,
+    #3c5b93,
+    #395fa3,
+    #3663b3,
+    #3467c4,
+    #336bd4
+  );
   background-attachment: fixed;
   font-family: "Roboto", sans-serif;
   min-height: 100vh;
@@ -41,7 +55,8 @@ form {
   align-items: center;
 }
 
-input, textarea {
+input,
+textarea {
   box-sizing: border-box;
   display: block;
   width: 100%;
@@ -57,7 +72,9 @@ form > button {
   width: 100%;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   text-align: center;
   letter-spacing: 2px;
   font-family: "Permanent Marker", cursive;
@@ -78,7 +95,8 @@ h1 {
   gap: 0.25em;
 }
 
-.social-item, button {
+.social-item,
+button {
   background: #fff;
   color: #121212;
   font-size: 1.4rem;
@@ -104,13 +122,26 @@ button {
   font-family: "Permanent Marker", cursive;
 }
 
-.social-item:hover, .social-item:active, .social-item:focus, button:hover, button:active, button:focus {
+.social-item:hover,
+.social-item:active,
+.social-item:focus,
+button:hover,
+button:active,
+button:focus {
   background: #121212;
   color: #fff;
   transition: 0.5s;
   cursor: pointer;
   opacity: 0.75;
-  border-bottom-color: transparent
+}
+
+.social .active {
+  background: #121212;
+  color: #fff;
+  transition: 0.5s;
+  cursor: pointer;
+  opacity: 0.75;
+  border-bottom-color: transparent;
 }
 
 .photo-wrap {
@@ -128,10 +159,14 @@ button {
   border: 3px solid #fff;
 }
 
-.photo:hover, .photo:active, .photo:focus {
+.photo:hover,
+.photo:active,
+.photo:focus {
   cursor: pointer;
 }
-.photo:hover #resume, .photo:active #resume, .photo:focus #resume {
+.photo:hover #resume,
+.photo:active #resume,
+.photo:focus #resume {
   background: #fff;
   color: #121212;
   border: 3px solid #121212;
@@ -156,7 +191,9 @@ button {
   transition: 0.5s;
 }
 
-#resume:hover, #resume:active, #resume:focus {
+#resume:hover,
+#resume:active,
+#resume:focus {
   background: #fff;
   color: #121212;
   border: 3px solid #121212;
@@ -178,13 +215,15 @@ button {
   transition: 0.5s;
 }
 
-.nav-item:active, .nav-item:hover, .nav-item:focus {
+.nav-item:active,
+.nav-item:hover,
+.nav-item:focus {
   border-bottom-color: #fff;
   cursor: pointer;
   transition: 0.5s;
 }
 
-.nav-item .active {
+.nav .active {
   border-bottom-color: #fff;
 }
 
@@ -201,7 +240,7 @@ button {
 .main > div {
   transition: 0.5s;
   display: none;
-  overflow-y: scroll;
+  overflow-y: hidden;
 }
 
 h2 {
@@ -249,7 +288,10 @@ h2 {
 .icon-row-clients i {
   font-size: 2.5rem;
 }
-.icon-row-clients i:hover, .icon-row-clients i:focus, .icon-row-clients img:hover, .icon-row-clients img:focus {
+.icon-row-clients i:hover,
+.icon-row-clients i:focus,
+.icon-row-clients img:hover,
+.icon-row-clients img:focus {
   transition: 0.5s;
   transform: scale(1.1);
 }
