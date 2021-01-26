@@ -33,6 +33,8 @@ body {
   justify-content: flex-start;
   align-items: center;
   overflow-x: hidden;
+  position: relative;
+  z-index: 1;
 }
 
 .email-drawer {
@@ -240,7 +242,6 @@ button:focus {
 .main > div {
   transition: 0.5s;
   display: none;
-  overflow-y: hidden;
 }
 
 h2 {
