@@ -98,6 +98,7 @@ button {
   transition: 0.5s;
   cursor: pointer;
   opacity: 0.75;
+  border-bottom-color: transparent
 }
 
 .photo-wrap {
@@ -171,7 +172,7 @@ button {
   transition: 0.5s;
 }
 
-.active {
+.nav-item .active {
   border-bottom-color: #fff;
 }
 
