@@ -10,7 +10,7 @@
 </p>
 <br/>
 
-<h1>Recent Blogs</h1>
+<h2>Recent Blogs</h2>
 
 <div class="posts-list">
 {{ with .Site.GetPage "/blog" }}
@@ -18,7 +18,7 @@
         <div class="post">
             <p>
                 <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
-                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h2>
                 {{ .Summary }}
             </p>
         </div>    
@@ -26,7 +26,7 @@
 {{ end }}
 </div>
 
-<h1>Recent Work</h1>
+<h2>Recent Work</h2>
 
 <div class="image-grid">
 {{ with .Site.GetPage "/portfolio" }}
