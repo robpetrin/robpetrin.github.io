@@ -1,10 +1,6 @@
 # petr.in 2022
 
 To-do
-* Hide Category Page Date
-* Redirect Category Page
-* Fix Breadcrumb Bug
-* New Linkout Bug
 * Fix SEO for meta/social
 
 --------------------
