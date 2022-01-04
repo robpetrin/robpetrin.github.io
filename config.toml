@@ -1,0 +1,27 @@
+baseurl = "https://petr.in/"
+title = "rob@petrin.dev"
+languageCode = "en-us"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = false
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated fadeInUpBig fast" 
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "blog/"
+  url = "blog/"
+  
+  [[params.navlinks]]
+  name = "portfolio/"
+  url = "portfolio/"
+
+  [[params.navlinks]]
+  name = "resume/"
+  url = "https://petrinnon.notion.site/Rob-Petrin-9bb3b65765c540af8781fbb8b17e9d91"
