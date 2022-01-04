@@ -4,204 +4,20 @@
     
         
         <url>
-            <loc>https://petr.in/blog/2022-at-mach-speed/</loc>
-            <lastmod>2022-01-02T00:00:00+00:00</lastmod>
+            <loc>https://petr.in/</loc>
+            <priority>0</priority>
         </url>
         
     
         
         <url>
             <loc>https://petr.in/categories/</loc>
-            <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/categories/personal/</loc>
-            <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/petrin-dot-dev/</loc>
-            <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/blog/</loc>
-            <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/</loc>
-            <lastmod>2022-01-02T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>https://petr.in/</loc>
-            <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/categories/website/</loc>
-            <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/categories/work-in-progress/</loc>
-            <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/boston-win-city/</loc>
-            <lastmod>2021-08-23T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/categories/infographic/</loc>
-            <lastmod>2021-08-23T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/title-tally/</loc>
-            <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/mat-stat/</loc>
-            <lastmod>2020-12-25T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/subject-matter-experts/</loc>
-            <lastmod>2020-12-15T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/sentify/</loc>
-            <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/categories/game/</loc>
-            <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/texas-holdem/</loc>
-            <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/trivia-blitz/</loc>
-            <lastmod>2020-01-08T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/rps-simulator/</loc>
-            <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/dice-game/</loc>
-            <lastmod>2019-12-14T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/tic-tac-toe/</loc>
-            <lastmod>2019-11-19T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/this-means-war/</loc>
-            <lastmod>2019-11-12T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/fabric-js-draw/</loc>
-            <lastmod>2018-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/categories/podcasting/</loc>
-            <lastmod>2018-01-15T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/the-water-coolest/</loc>
-            <lastmod>2018-01-15T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/homebody-media/</loc>
-            <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/about/</loc>
-            <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/vaasl/</loc>
-            <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/st-marys/</loc>
-            <lastmod>2015-02-06T00:00:00+00:00</lastmod>
         </url>
         
     

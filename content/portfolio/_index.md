@@ -1,6 +1,6 @@
 +++
 title = "Recent Work & Current Projects"
-description = "A showcase of Rob's recent web projects, both personal and for clients."
+description = "A showcase of Rob's recent web projects, both personal and for clients. Many of these are exciting works in progress, receiving frequent updates."
 type = "gallery"
 +++
 
