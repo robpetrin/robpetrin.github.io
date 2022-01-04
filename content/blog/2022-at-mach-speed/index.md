@@ -9,7 +9,7 @@ I expect this year to be a whirlwind, which is saying something compared to the 
 
 <!--more-->
 
-![Mach Speed](https://images.unsplash.com/photo-1506818144585-74b29c980d4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+![Mach Speed](https://images.unsplash.com/photo-1506818144585-74b29c980d4b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=630)
 
 First of all, **I'm getting married two weeks from today**. I couldn't be happier about that, but the late-stage planning is going to be my primary focus over the time between now and the big day. On top of that, **this week is my final at neta** and **next week I start my role at Astute**. I'm thrilled about the changes, but there's a lot of offboarding and onboarding coming up for me.
 

@@ -5,3 +5,12 @@ function externalLinks() {
   }
 };
 externalLinks();
+
+let images = document.querySelectorAll('img')
+
+if (images.length > 0) {
+  let ogImage = document.createElement('meta')
+  ogImage.setAttribute('property','og:image')
+  ogImage.content = images[0].src
+  document.head.appendChild(ogImage)
+}
