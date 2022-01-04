@@ -1,8 +1,5 @@
 # petr.in 2022
 
-To-do
-* Fix SEO for meta/social
-
 --------------------
 
 # Hugo Theme: Console
