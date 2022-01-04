@@ -1,0 +1,32 @@
+Tic Tac Toe
+https://cdpn.io/robpetrin/debug/ExVqbGJ
+
+Texas Holdem
+https://cdpn.io/robpetrin/debug/wvKVZEE
+
+Fabris.js Drawing Tablet
+https://cdpn.io/robpetrin/debug/MWKKwgO
+
+RPS Simulator
+https://cdpn.io/robpetrin/debug/jOWrJLZ
+
+Dice Rolling Game
+https://cdpn.io/robpetrin/debug/dyMQgVY
+
+Trivia Blitz
+https://cdpn.io/robpetrin/debug/KKgoWPR
+
+Title Tally
+https://cdpn.io/robpetrin/debug/eYdeeea
+
+This Means War!
+https://cdpn.io/robpetrin/debug/KKNzwRe
+
+Mat Stat
+https://cdpn.io/robpetrin/debug/vYmJVdz
+
+Subject Matter Experts
+https://cdpn.io/robpetrin/debug/qBjOzoR
+
+Win City
+https://cdpn.io/robpetrin/debug/gOxOdej

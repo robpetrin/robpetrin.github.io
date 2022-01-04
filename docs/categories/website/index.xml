@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website on rob@petrin.dev</title>
+    <link>https://petr.in/categories/website/</link>
+    <description>Recent content in website on rob@petrin.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://petr.in/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Petrin Development Services</title>
+      <link>https://petr.in/portfolio/petrin-dot-dev/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/petrin-dot-dev/</guid>
+      <description>I&amp;rsquo;m launching Petrin Development Services (PDS) in 2022. The plan is to use my skills, experiences, and expertise to help small businesses in my area to cultivate their marketing presence, and to help them manage all applicable web services that can help them grow their brand.
+In the last few years, proper technical SEO hygiene has become more important than ever. And, in my humble opinion, it&amp;rsquo;s becoming too treacherous of a landscape for small business owners to focus on while separately growing their businesses.</description>
+    </item>
+    
+    <item>
+      <title>Subject Matter Experts</title>
+      <link>https://petr.in/portfolio/subject-matter-experts/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/subject-matter-experts/</guid>
+      <description>Subject Matter Experts (SME) is perhaps the most important project listed here, and closest to my heart. I have a vision for re-imagining self-directed education, with a &amp;ldquo;lesson&amp;rdquo; as the primary increment for measuring understanding. Any subject can be broken down into the lessons it consists of, and I believe an entire educational platform (or a curriculum, or a doctrine) can be formatted comprised of lessons.
+SME looks to implement that vision, as five primary applications &amp;ndash; a lesson composer, a lesson repository, an assessment tool, a student dashboard, and a curriculum dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Sentify</title>
+      <link>https://petr.in/portfolio/sentify/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/sentify/</guid>
+      <description>I worked on the current iteration of the Sentify website in early 2020. This was strictly a development engagement, as a number of their services overlap with what I offer as part of Petrin Development Services. But it was a fun little website I enjoyed contributing to, and perhaps may continue to contribute to in the future.</description>
+    </item>
+    
+    <item>
+      <title>The Water Coolest</title>
+      <link>https://petr.in/portfolio/the-water-coolest/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/the-water-coolest/</guid>
+      <description>I had a lot of fun working on The Water Coolest. I first joined them as a the voice of their daily news podcast, which leaned on my recording and audio production skills. Additionally, I took on duties related to landing page development, and broader management of their entire marketing site. Subsequently, they were acquired by Barstool Sports.</description>
+    </item>
+    
+    <item>
+      <title>Homebody Media</title>
+      <link>https://petr.in/portfolio/homebody-media/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/homebody-media/</guid>
+      <description>Homebody Media was a labor of love, as a number of colleagues were looking to develop a podcasting network. Built in Hugo, the requirements for integrating the site were both to foster content management and proper podcast RSS feed syntax. The theme was fully custom, and a joy to develop. HBM is currently on hiatus.</description>
+    </item>
+    
+    <item>
+      <title>Virginia Association of School Librarians</title>
+      <link>https://petr.in/portfolio/vaasl/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/vaasl/</guid>
+      <description>My work on the VAASL website was challenging. There were rigid design requirements within their existing design system, as the site was a pioneer in accessibility. This hindered innovation, but resulted in a clean site &amp;ndash; though admittedly the theme we were working in was very dated (even for 2015). The site has had a subsequent redesign in the intervening years, after my involvement ended.</description>
+    </item>
+    
+    <item>
+      <title>St. Mary&#39;s Jr/Sr High School</title>
+      <link>https://petr.in/portfolio/st-marys/</link>
+      <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/st-marys/</guid>
+      <description>Unfortunately, St. Mary&amp;rsquo;s is now closed. I took over development of the site in 2014, which badly needed a re-theme. It is based on WordPress, and uses a boilerplate theme. This project was more of an exercise in content than functionality, as the site&amp;rsquo;s primary purpose was transmitting information.
+This was one of my earlier forays into graphic design, as I implemented the global hero banner, and the Crimson Eagle logo.</description>
+    </item>
+    
+  </channel>
+</rss>

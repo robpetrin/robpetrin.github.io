@@ -1,6 +1,7 @@
 baseurl = "https://petr.in/"
 title = "rob@petrin.dev"
 languageCode = "en-us"
+publishDir = "docs"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)

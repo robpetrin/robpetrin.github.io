@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podcasting on rob@petrin.dev</title>
+    <link>https://petr.in/categories/podcasting/</link>
+    <description>Recent content in podcasting on rob@petrin.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://petr.in/categories/podcasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Water Coolest</title>
+      <link>https://petr.in/portfolio/the-water-coolest/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/the-water-coolest/</guid>
+      <description>I had a lot of fun working on The Water Coolest. I first joined them as a the voice of their daily news podcast, which leaned on my recording and audio production skills. Additionally, I took on duties related to landing page development, and broader management of their entire marketing site. Subsequently, they were acquired by Barstool Sports.</description>
+    </item>
+    
+    <item>
+      <title>Homebody Media</title>
+      <link>https://petr.in/portfolio/homebody-media/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/homebody-media/</guid>
+      <description>Homebody Media was a labor of love, as a number of colleagues were looking to develop a podcasting network. Built in Hugo, the requirements for integrating the site were both to foster content management and proper podcast RSS feed syntax. The theme was fully custom, and a joy to develop. HBM is currently on hiatus.</description>
+    </item>
+    
+  </channel>
+</rss>

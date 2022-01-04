@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on rob@petrin.dev</title>
+    <link>https://petr.in/categories/</link>
+    <description>Recent content in Categories on rob@petrin.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://petr.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>personal</title>
+      <link>https://petr.in/categories/personal/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>https://petr.in/categories/website/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/categories/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work-in-progress</title>
+      <link>https://petr.in/categories/work-in-progress/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/categories/work-in-progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infographic</title>
+      <link>https://petr.in/categories/infographic/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/categories/infographic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game</title>
+      <link>https://petr.in/categories/game/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/categories/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>podcasting</title>
+      <link>https://petr.in/categories/podcasting/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/categories/podcasting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
