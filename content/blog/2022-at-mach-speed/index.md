@@ -1,6 +1,6 @@
 +++
-title = "2022, at Mach Speed"
-description = "I'm going to be a busy boy in January of 2022. I can't wait!"
+title = "2022 Will Feel Like Mach Speed"
+description = "I'm going to be a busy boy in January of 2022. Milestones, house projects, side hustle, and hobby projects. I can't wait!"
 categories = ['personal']
 date = "2022-01-02"
 +++
