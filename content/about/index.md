@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "Learn More About Rob Petrin"
+title = "Learn More Details About Rob Petrin"
 description = "Learn more about Rob's professional and educational history. It's been a long road to travel, and every role has been a learning experience."
 +++
 
