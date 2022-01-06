@@ -1,5 +1,5 @@
 baseurl = "https://petr.in/"
-title = "rob@petrin.dev"
+title = "Rob likes to code."
 languageCode = "en-us"
 publishDir = "docs"
 
