@@ -4,6 +4,7 @@ date = "2020-12-25"
 title = "Mat Stat"
 type = "gallery"
 categories = ['work-in-progress','infographic']
+description = "This project aims to provide data visualization to professional wrestling title reigns. Work in progress. It will scrape Wikipedia to compile its data."
 +++
 
 Mat Stat is my most recent sports infographic project, and it is hosted on [CodePen](https://cdpn.io/robpetrin/debug/vYmJVdz). 

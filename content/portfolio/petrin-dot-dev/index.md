@@ -4,6 +4,7 @@ date = "2022-01-02"
 title = "Petrin Development Services"
 type = "gallery"
 categories = ['work-in-progress','website']
+description = "PDS is the culmination of years of experience providing web services in personal, professional, and freelance capacities. I've formalized my skills to market them to Boston-area small businesses"
 +++
 
 I'm launching [Petrin Development Services](https://petrin.dev) (PDS) in 2022. The plan is to use my skills, experiences, and expertise to help small businesses in my area to cultivate their marketing presence, and to help them manage all applicable web services that can help them grow their brand.

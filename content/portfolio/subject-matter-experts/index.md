@@ -4,6 +4,7 @@ date = "2020-12-15"
 title = "Subject Matter Experts"
 type = "gallery"
 categories = ['website','work-in-progress']
+description = "Education needs to change. SME envisions knowledge transfer from the 'lesson' level. The suite will offer creation, marketplace, assessment, curricular, and dashboard functionalities."
 +++
 
 Subject Matter Experts (SME) is perhaps the most important project listed here, and closest to my heart. I have a vision for re-imagining self-directed education, with a "lesson" as the primary increment for measuring understanding. Any subject can be broken down into the lessons it consists of, and I believe an entire educational platform (or a curriculum, or a doctrine) can be formatted comprised of lessons.
