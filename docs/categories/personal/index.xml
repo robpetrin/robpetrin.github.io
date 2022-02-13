@@ -6,7 +6,16 @@
     <description>Recent content in personal on Rob likes to code.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://petr.in/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://petr.in/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>January is Nerd Season</title>
+      <link>https://petr.in/blog/january-is-nerd-season/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/blog/january-is-nerd-season/</guid>
+      <description>&lt;p&gt;As noted in my prior post, I expected a busy time in January. It hasn&amp;rsquo;t disappointed.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>2022 Will Feel Like Mach Speed</title>
       <link>https://petr.in/blog/2022-at-mach-speed/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://petr.in/blog/2022-at-mach-speed/</guid>
       <description>&lt;p&gt;I expect this year to be a whirlwind, which is saying something compared to the prior few years.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>January is Nerd Season</title>
-      <link>https://petr.in/blog/january-is-nerd-season/</link>
-      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://petr.in/blog/january-is-nerd-season/</guid>
-      <description>&lt;p&gt;As noted in my prior post, I expected a busy time in January. It hasn&amp;rsquo;t disappointed.&lt;/p&gt;</description>
     </item>
     
   </channel>

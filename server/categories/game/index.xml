@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>game on Rob likes to code.</title>
+    <link>https://petr.in/categories/game/</link>
+    <description>Recent content in game on Rob likes to code.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://petr.in/categories/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Texas Holdem</title>
+      <link>https://petr.in/portfolio/texas-holdem/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/texas-holdem/</guid>
+      <description>This a simple proof-of-concept for now, with limited functionality. It&amp;rsquo;s not actively being worked on, but can be found on CodePen. It deals cards correctly, but none of the underly game functionality is present yet. It uses the Deck of Cards API.</description>
+    </item>
+    
+    <item>
+      <title>Trivia Blitz</title>
+      <link>https://petr.in/portfolio/trivia-blitz/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/trivia-blitz/</guid>
+      <description>This game is fully-functioning, and is hosted on CodePen. It uses the Open Trivia Database, which is a super easy API to work with, but the difficulty settings are a little wacky. Enjoy!</description>
+    </item>
+    
+    <item>
+      <title>Rock, Paper, Scissors Simulator</title>
+      <link>https://petr.in/portfolio/rps-simulator/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/rps-simulator/</guid>
+      <description>This is a dumb little game I created in a couple of hours. Hosted on CodePen, it is exactly what you would expect.</description>
+    </item>
+    
+    <item>
+      <title>Dice Rolling Game</title>
+      <link>https://petr.in/portfolio/dice-game/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/dice-game/</guid>
+      <description>This game can be found on CodePen, and is based on a mini-game from the Jackbox Party Pack game Trivia Murder Party. Each player takes turns rolling. The first player to get to 21 wins!</description>
+    </item>
+    
+    <item>
+      <title>Tic Tac Toe</title>
+      <link>https://petr.in/portfolio/tic-tac-toe/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/tic-tac-toe/</guid>
+      <description>There&amp;rsquo;s not much to see here. This little app, hosted on CodePen, is a fully-functioning Tic Tac Toe game. It can be played alone (but why?) or with a friend. A left-click (or tap) is X, and a right-click (or long tap) is O.</description>
+    </item>
+    
+    <item>
+      <title>This Means War!</title>
+      <link>https://petr.in/portfolio/this-means-war/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/this-means-war/</guid>
+      <description>This a simple proof-of-concept for now, with limited functionality. It&amp;rsquo;s not actively being worked on, but can be found on CodePen. It deals cards correctly, but none of the underly game functionality is present yet. It uses the Deck of Cards API.</description>
+    </item>
+    
+    <item>
+      <title>Fabric.js Drawing Tool</title>
+      <link>https://petr.in/portfolio/fabric-js-draw/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/fabric-js-draw/</guid>
+      <description>This tool, first developed in 2018, is a proof of concept for a pictionary app I&amp;rsquo;d like to further develop. It is fully featured, but lacks any current practical application. The tool is currently hosted on CodePen.</description>
+    </item>
+    
+  </channel>
+</rss>

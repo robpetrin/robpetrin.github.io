@@ -1,7 +1,7 @@
 +++
 title = "January is Nerd Season"
 categories = ['personal','development']
-date = "2022-01-02"
+date = "2022-01-17"
 description = "January is as hectic as planned, and I'm loving it."
 thumb = "https://c.tenor.com/myWhE0y5rTsAAAAC/brent-rambo-thumbs-up.gif"
 +++
