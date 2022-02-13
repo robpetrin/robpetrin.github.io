@@ -13,11 +13,11 @@ I really want the Bengals to win, and I expect they will.
 
 It's nothing personal, Rams fans. I don't revel in your misery, and hold no ill will after two close matchups in Super Bowls 36 and 53. The Cincinnati Bengals fans have suffered far longer.
 
-I'm happy Matthew Stafford is out of Detroit and can contend for a title. The St. Louis Rams are equipped to go for it all this season with [future salary cap cramps](https://ramblinfan.com/2021/12/09/the-la-rams-have-already-spent-much-of-the-2022-nfl-salary-cap-increase/) preventing a multi-year run. Their coach looks forward to a [life after football](https://www.espn.com/nfl/story/_/id/33270237/los-angeles-rams-coach-sean-mcvay-ponders-future-says-wants-prioritize-family).
+I'm happy Matthew Stafford is out of Detroit and can contend for a title. The Los Angeles Rams are equipped to go for it all this season with [future salary cap cramps](https://ramblinfan.com/2021/12/09/the-la-rams-have-already-spent-much-of-the-2022-nfl-salary-cap-increase/) preventing a multi-year run. Their coach looks forward to a [life after football](https://www.espn.com/nfl/story/_/id/33270237/los-angeles-rams-coach-sean-mcvay-ponders-future-says-wants-prioritize-family).
 
 ## Who's the next Superstar?
 
-In my opinion, Joe Burrow is a superstar in the making. There's a void at the top with Tom Brady's retirement. There's a lot of great young and up-and-coming talent at QB in the league -- Josh Allen, Mac Jones, Patrick Mahomes, Tua Tagovailoa, Lamar Jackson, Burrow, Lamar Jackson, Justin Herbert, Jalen Hurts, Kyler Murray. Of that list, only Mahomes has a championship.
+In my opinion, Joe Burrow is a superstar in the making. There's a void at the top of the league with Tom Brady's retirement. There's a lot of great young and up-and-coming talent at QB in the league -- Josh Allen, Mac Jones, Patrick Mahomes, Tua Tagovailoa, Lamar Jackson, Burrow, Lamar Jackson, Justin Herbert, Jalen Hurts, Kyler Murray. Of that list, only Mahomes has a championship.
 
 ## Rarified Air
 
