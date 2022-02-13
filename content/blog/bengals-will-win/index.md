@@ -1,5 +1,5 @@
 +++
-title = "The Bengals are Will Win"
+title = "The Bengals Will Win"
 description = "The Bengals fans have suffered long enough. It will all be worth it after today."
 categories = ['current events']
 date = "2022-02-13"
