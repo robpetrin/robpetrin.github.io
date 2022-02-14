@@ -28,3 +28,5 @@ If Burrow were to join that group (or Stafford for that matter). it would add an
 The coronation of Stafford would be satisfying. OBJ getting a ring before Mayfield would be fine. Von Miller winning a second would be nice, and Aaron Donald winning his first would be better. But until Joe Burrow loses in the playoffs, I'm not picking against him in the playoffs. Cincinnati needs this more than Los Angeles.
 
 I also believe it's the first Super Bowl, in the era of emojis, to feature both teams as default emojis. I predict 🐅 24, 🐏 20 in a mostly defensive struggle. The Bengals get a defensive or special teams score. Joe Burrow gets to the next level but the Rams do more than they did in their last Super Bowl.
+
+**Edit:** This aged poorly.
