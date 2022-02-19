@@ -9,7 +9,7 @@ I really want the Bengals to win, and I expect they will.
 
 <!--more-->
 
-![Mach Speed](https://images.unsplash.com/photo-1598463166228-c0f90d180918?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3125&q=80 'Kitty Cats')
+![Kitty Cats](https://images.unsplash.com/photo-1598463166228-c0f90d180918?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3125&q=80 'Kitty Cats')
 
 It's nothing personal, Rams fans. I don't revel in your misery, and hold no ill will after two close matchups in Super Bowls 36 and 53. The Cincinnati Bengals fans have suffered far longer.
 
