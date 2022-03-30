@@ -4,14 +4,49 @@
     
         
         <url>
-            <loc>https://petr.in/blog/bel-air-awesome/</loc>
-            <lastmod>2022-02-18T00:00:00+00:00</lastmod>
+            <loc>https://petr.in/categories/</loc>
+            <lastmod>2022-03-29T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://petr.in/categories/</loc>
+            <loc>https://petr.in/categories/infographic/</loc>
+            <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://petr.in/portfolio/mat-stat/</loc>
+            <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://petr.in/portfolio/</loc>
+            <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://petr.in/</loc>
+            <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://petr.in/categories/work-in-progress/</loc>
+            <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://petr.in/blog/bel-air-awesome/</loc>
             <lastmod>2022-02-18T00:00:00+00:00</lastmod>
         </url>
         
@@ -26,13 +61,6 @@
         
         <url>
             <loc>https://petr.in/blog/</loc>
-            <lastmod>2022-02-18T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/</loc>
             <lastmod>2022-02-18T00:00:00+00:00</lastmod>
         </url>
         
@@ -81,21 +109,7 @@
     
         
         <url>
-            <loc>https://petr.in/portfolio/</loc>
-            <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>https://petr.in/categories/website/</loc>
-            <lastmod>2022-01-02T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/categories/work-in-progress/</loc>
             <lastmod>2022-01-02T00:00:00+00:00</lastmod>
         </url>
         
@@ -109,22 +123,8 @@
     
         
         <url>
-            <loc>https://petr.in/categories/infographic/</loc>
-            <lastmod>2021-08-23T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>https://petr.in/portfolio/title-tally/</loc>
             <lastmod>2021-01-30T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://petr.in/portfolio/mat-stat/</loc>
-            <lastmod>2020-12-25T00:00:00+00:00</lastmod>
         </url>
         
     

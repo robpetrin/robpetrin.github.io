@@ -6,7 +6,17 @@
     <description>Recent content in infographic on Rob likes to code.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://petr.in/categories/infographic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://petr.in/categories/infographic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mat Stat</title>
+      <link>https://petr.in/portfolio/mat-stat/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://petr.in/portfolio/mat-stat/</guid>
+      <description>Mat Stat is my most recent sports infographic project, and it is hosted on Netlify.
+Like Title Tally, it looks to quantify championship victories using a number of metrics (time, location, etc.). Unlike Title Tally, this time it focuses on major professional wrestling promotions. The front-end is vanilla JavaScript. I haven&amp;rsquo;t decided if the back-end will be dynamic (scraped from Wikipedia) or static (compiled in a local database) yet.</description>
+    </item>
+    
     <item>
       <title>Boston: Win City</title>
       <link>https://petr.in/portfolio/boston-win-city/</link>
@@ -24,16 +34,6 @@
       <guid>https://petr.in/portfolio/title-tally/</guid>
       <description>Title Tally, hosted on CodePen, is near and dear to my heart. I was having a difficult time quantifying which cities had the most collective championships. I could to this per-franchise, but wanted to segment data to differentiate the Minneapolis Lakers from the Los Angeles Lakers, for example.
 Originally written in Vue, I&amp;rsquo;ll be working on a React version in 2022.</description>
-    </item>
-    
-    <item>
-      <title>Mat Stat</title>
-      <link>https://petr.in/portfolio/mat-stat/</link>
-      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://petr.in/portfolio/mat-stat/</guid>
-      <description>Mat Stat is my most recent sports infographic project, and it is hosted on CodePen.
-Like Title Tally, it looks to quantify championship victories using a number of metrics (time, location, etc.). Unlike Title Tally, this time it focuses on major professional wrestling promotions. The front-end is vanilla JavaScript. I haven&amp;rsquo;t decided if the back-end will be dynamic (scraped from Wikipedia) or static (compiled in a local database) yet.</description>
     </item>
     
   </channel>
