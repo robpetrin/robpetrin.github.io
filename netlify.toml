@@ -1,7 +1,7 @@
 [build]
 base = "/"
-publish = "public"
-command = "hugo --gc --minify --themesDir ../../ -t repo -b $URL"
+publish = "docs"
+command = "hugo"
 
 [context.production.environment]
 HUGO_VERSION = "0.81.0"
