@@ -69,20 +69,20 @@ I've added images to the bottom of this post. The next slew of house projects --
 
 Hopefully, I talk <s>to</s> at you again soon!
 
-![The left side of the backyard](./house-projects/backyard-left-before.jpg 'The left side of the backyard')
+![The left side of the backyard](/house-projects/backyard-left-before.jpg 'The left side of the backyard')
 
-![The right side of the backyard](./house-projects/backyard-right-before.jpg 'The right side of the backyard')
+![The right side of the backyard](/house-projects/backyard-right-before.jpg 'The right side of the backyard')
 
-![The deck, before](./house-projects/the-deck-before.jpg 'The deck, before')
+![The deck, before](/house-projects/the-deck-before.jpg 'The deck, before')
 
-![The shed, after](./house-projects/the-shed-after.jpg 'The shed, after')
+![The shed, after](/house-projects/the-shed-after.jpg 'The shed, after')
 
-![Family room, before](./house-projects/family-room-before.jpg 'Family room, before')
+![Family room, before](/house-projects/family-room-before.jpg 'Family room, before')
 
-![Goodbye wall!](./house-projects/goodbye-wall-before.jpg 'Goodbye wall!')
+![Goodbye wall!](/house-projects/goodbye-wall-before.jpg 'Goodbye wall!')
 
-![Exercise room, before](./house-projects/exercise-room-before.jpg 'Exercise room, before')
+![Exercise room, before](/house-projects/exercise-room-before.jpg 'Exercise room, before')
 
-![Storage room, before](./house-projects/storage-room-before.jpg 'Storage room, before')
+![Storage room, before](/house-projects/storage-room-before.jpg 'Storage room, before')
 
-![Downstairs bathroom, someday](./house-projects/downstairs-bathroom-before.jpg 'Downstairs bathroom, someday')
+![Downstairs bathroom, someday](/house-projects/downstairs-bathroom-before.jpg 'Downstairs bathroom, someday')
