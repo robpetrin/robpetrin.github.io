@@ -179,6 +179,9 @@ figure {
     margin-right: 60px;
 }
 
+ul { list-style-type: square; }
+li { display: list-item !important; }
+
 .footer {
     clear: both;
     margin-top: 100px;
